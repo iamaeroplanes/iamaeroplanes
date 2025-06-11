@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamaeroplanes
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Frontend & Backend Development
 - 🌱 I’m currently learning React and Vue.js
 - 💞️ I’m looking to collaborate on some webdev projects
 - 📫 How to reach me @iamaeroplanes on instagram + telegram
